@@ -1,6 +1,6 @@
-# easy-burger-queen
+# Easy Buerger Queen
 
-> My mind-blowing Nuxt.js project
+> A Nuxt.js and Koa.js project
 
 ## Build Setup
 
